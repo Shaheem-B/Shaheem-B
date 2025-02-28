@@ -7,6 +7,7 @@ Entry level Data Analyst
 - 💻 Internship at Main Flow Services and Technologies [<img src="https://github.com/Shaheem-B/Shaheem-B/blob/main/_______.png?raw=true" height="22">](https://www.mainflow.in/)
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shaheem-basheer45/)
+<br/> [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/profile.php?id=100091943193050)
 <br/> [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/unique._._.soul.__/)
 
 ### I program in
