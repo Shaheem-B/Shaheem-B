@@ -3,7 +3,7 @@
 Entry level Data Analyst 
 <img align="right" width="440" height="260" src="https://i.pinimg.com/originals/9e/0a/c8/9e0ac82bc17ff00708da6bd09593177e.gif">
 - 🔭 Data Analyst with a Bachelor of Technology in Artificial Intelligence and Data Science.                                                 
-- 🎓 Pre-final year student at Rajalakshmi Institute of Technology[<img src="https://ritchennai.org/admissions/image/rit-logo-new.png" height="24">](https://ritchennai.org/) 
+- 🎓 Pre-final year student at Rajalakshmi Institute of Technology[<img src="https://ritchennai.org/img/rit-logo.png" height="24">](https://ritchennai.org/) 
 - 💻 Internship at [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXj9YYPRuzkGjd6zYnRnQC0cF0jGcLOw7_1YIqghTfBfYsl2A5BjItlwPVzvckNN4jlA&usqp=CAU" height="24">](https://www.mainflow.in/)
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shaheem-basheer45/)
