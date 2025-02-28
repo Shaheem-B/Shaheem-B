@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Shaheem
 
 Entry level Data Analyst 
-<img align="right" width="370" height="290" src="https://www.tlciscreative.com/wp-content/uploads/2024/08/A.I-2.gif">
+<img align="right" width="370" height="290" src="https://scitechdaily.com/images/AI-Technology-Creation-Concept.gif">
 - 🔭 Data Analyst with a Bachelor of Technology in Artificial Intelligence and Data Science.                                                 
 - 🎓 Pre-final year student at Rajalakshmi Institute of Technology[<img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/vvpaxqgzachzbzjg33u9" height="24">](https://ritchennai.org/) 
 - 💻 Internship at [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXj9YYPRuzkGjd6zYnRnQC0cF0jGcLOw7_1YIqghTfBfYsl2A5BjItlwPVzvckNN4jlA&usqp=CAU" height="24">](https://www.mainflow.in/)
