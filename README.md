@@ -18,6 +18,8 @@ Entry level Data Analyst
 
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Windows-HP_Elitebook_840_G5-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/Intel-Core_i7_8650U-0071C5?style=for-the-badge&logo=intel&logoColor=white"/> 
+
+[![Shaheem's github contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Shaheem-B&bg_color=0f0f0f&color=ffffff&line=00ff2a&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
 <!--
 **Shaheem-B/Shaheem-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
