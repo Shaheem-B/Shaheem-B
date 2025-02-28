@@ -18,7 +18,7 @@ Entry level Data Analyst
    <img height="65" width="65" src="https://img.icons8.com/color/50/000000/git.png"/>    <img height="60" width="60" src="https://img.icons8.com/?size=100&id=8brQhSA7i3Yn&format=png&color=000000" />    <img height="60" width="60" src="https://img.icons8.com/?size=100&id=BEMhRoRy403e&format=png&color=000000"/>    <img height="61" width="61" src="https://img.icons8.com/?size=100&id=81726&format=png&color=000000"/> <img height="60" width="60" src="https://img.icons8.com/?size=100&id=vCmmOWVBAcll&format=png&color=000000"/>    <img height="55" width="55" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> 
 
 ### 💻 Workspace Spec
-<img height="30" src="https://img.shields.io/badge/Windows-HP_Elitebook_840_G5-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/Intel-Core_i7_8650U-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/Windows-HP_Elitebook_840_G5-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/Intel-Core_i7-8650U-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>  
 <!--
 **Shaheem-B/Shaheem-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
