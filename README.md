@@ -11,8 +11,7 @@ Entry level Data Analyst
 
 ### I program in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />
-<img height="50" width="50" src="https://img.icons8.com/?size=100&id=QSjnrUKYMnxO&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=QSjnrUKYMnxO&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <!--
 **Shaheem-B/Shaheem-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
