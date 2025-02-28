@@ -14,7 +14,7 @@ Entry level Data Analyst
 
 ### IDE and Tools I Use
 <img height="55" width="55" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>    <img height="60" width="60" src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000"/>    <img height="60" width="60" src="https://img.icons8.com/?size=100&id=0S1Hoidfnk7H&format=png&color=000000"/> 
-   <img height="55" width="55" src="https://img.icons8.com/color/48/000000/pycharm.png"/>    <img height="55" width="55" src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000"/>    <img height="55" width="55" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000"/> 
+      <img height="55" width="55" src="https://img.icons8.com/color/48/000000/pycharm.png"/>       <img height="55" width="55" src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000"/>    <img height="55" width="55" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000"/> 
    <img height="65" width="65" src="https://img.icons8.com/color/50/000000/git.png"/>    <img height="60" width="60" src="https://img.icons8.com/?size=100&id=8brQhSA7i3Yn&format=png&color=000000" />    <img height="60" width="60" src="https://img.icons8.com/?size=100&id=BEMhRoRy403e&format=png&color=000000"/>    <img height="61" width="61" src="https://img.icons8.com/?size=100&id=81726&format=png&color=000000"/> <img height="60" width="60" src="https://img.icons8.com/?size=100&id=vCmmOWVBAcll&format=png&color=000000"/>    <img height="55" width="55" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> 
 <!--
 **Shaheem-B/Shaheem-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
