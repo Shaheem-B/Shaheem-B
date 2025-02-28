@@ -3,8 +3,8 @@
 Entry level Data Analyst 
 <img align="right" width="370" height="290" src="https://scitechdaily.com/images/AI-Technology-Creation-Concept.gif">
 - 🔭 Data Analyst with a Bachelor of Technology in Artificial Intelligence and Data Science.                                                 
-- 🎓 Pre-final year at Rajalakshmi Institute of Technology[<img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/vvpaxqgzachzbzjg33u9" height="30">](https://ritchennai.org/) 
-- 💻 Internship at [<img src="https://www.mainflow.in/images/Main-Flow.png&w=256&q=75" height="24">](https://www.mainflow.in/)
+- 🎓 Pre-final year student at Rajalakshmi Institute of Technology[<img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/vvpaxqgzachzbzjg33u9" height="24">](https://ritchennai.org/) 
+- 💻 Internship at [<img src="https://www.mainflow.in/images/Main-Flow.png" height="24">](https://www.mainflow.in/)
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shaheem-basheer45/)
 <br/> [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/unique._._.soul.__/)
