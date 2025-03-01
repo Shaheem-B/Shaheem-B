@@ -19,6 +19,16 @@ Entry level Data Analyst
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Windows-HP_Elitebook_840_G5-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/Intel-Core_i7_8650U-0071C5?style=for-the-badge&logo=intel&logoColor=white"/> 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Shaheem-B&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Shaheem-B&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaheem-B&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Shaheem-B&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 [![Shaheem's github contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Shaheem-B&bg_color=0f0f0f&color=ffffff&line=00ff2a&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
 <!--
 **Shaheem-B/Shaheem-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
