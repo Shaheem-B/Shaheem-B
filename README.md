@@ -22,11 +22,8 @@ Entry level Data Analyst
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Shaheem-B&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Shaheem-B&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaheem-B&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 [![Shaheem's github contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Shaheem-B&bg_color=0f0f0f&color=ffffff&line=00ff2a&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
 <!--
 **Shaheem-B/Shaheem-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
