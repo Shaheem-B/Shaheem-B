@@ -25,8 +25,6 @@ Entry level Data Analyst
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaheem-B&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shaheem-B&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 [![Shaheem's github contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Shaheem-B&bg_color=0f0f0f&color=ffffff&line=00ff2a&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
