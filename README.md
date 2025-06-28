@@ -3,7 +3,7 @@
 Entry level Data Analyst 
 <img align="right" width="440" height="260" src="https://media.licdn.com/dms/image/D5612AQGqmmn8uLjhpA/article-cover_image-shrink_600_2000/0/1704826704581?e=2147483647&v=beta&t=qGHbfLo8EBLceCVxI6H_Amov5b8wt4ObNQvqZH298n0">
 - 🔭 Data Analyst with a Bachelor of Technology in Artificial Intelligence and Data Science.                                                 
-- 🎓 Pre-final year student at Rajalakshmi Institute of Technology [<img src="https://github.com/Shaheem-B/Shaheem-B/blob/main/________.png?raw=trueg" height="22">](https://ritchennai.org/) 
+- 🎓 Final year student at Rajalakshmi Institute of Technology [<img src="https://github.com/Shaheem-B/Shaheem-B/blob/main/________.png?raw=trueg" height="22">](https://ritchennai.org/) 
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shaheem-basheer45/)  [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/profile.php?id=100091943193050)  [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/unique._._.soul.__/)
 
